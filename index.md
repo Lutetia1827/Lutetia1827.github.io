@@ -10,6 +10,9 @@ I’m a Classics scholar and game designer whose work lives at the intersection 
   Your browser does not support the video tag.
 </video>
 
+
+
+
 # Platformer
 
 <video controls width="630">
@@ -17,22 +20,17 @@ I’m a Classics scholar and game designer whose work lives at the intersection 
   Your browser does not support the video tag.
 </video>
 
-# Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
+# Pico-8 Game
+
+<video controls width="630">
+  <source src="/assets/video/SwampRescue.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 #### Header 4
 
