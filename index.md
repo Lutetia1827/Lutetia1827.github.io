@@ -5,7 +5,14 @@ I’m a Classics scholar and game designer whose work lives at the intersection 
 
 # Animation
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
+layout: post
+title: "Local Video Test"
+---
+<video controls width="640">
+  <source src="{{ '/assets/video/Fukakoryoku.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Header 2
 
