@@ -4,18 +4,20 @@ layout: default
 I’m a Classics scholar and game designer whose work lives at the intersection of ancient texts and interactive systems. In Classics, my focus is on ancient drama, Latin novels, and everything grotesque about the ancient Mediterranean world—bodies out of bounds, unstable identities, and stories that refuse to stay tidy. As a game student, I’m interested in making games that deconstruct and reconstruct ancient culture, translating fragments, myths, and marginal voices into playable experiences. I design games that invite players to push against familiar narratives and, in the process, encounter strange and unseen sides of themselves.
 
 # Animation
+
 <video controls width="630">
-  <source src="/assets/videos/Fukakoryoku.mp4" type="video/mp4">
+  <source src="/assets/video/Fukakoryoku.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Platformer
+# Platformer
+
 <video controls width="630">
-  <source src="/assets/videos/SkyRun.mp4" type="video/mp4">
+  <source src="/assets/video/SkyRun.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Header 3
+# Header 3
 
 ```js
 // Javascript code with syntax highlighting.
