@@ -3,11 +3,8 @@ layout: default
 ---
 I’m a Classics scholar and game designer whose work lives at the intersection of ancient texts and interactive systems. In Classics, my focus is on ancient drama, Latin novels, and everything grotesque about the ancient Mediterranean world—bodies out of bounds, unstable identities, and stories that refuse to stay tidy. As a game student, I’m interested in making games that deconstruct and reconstruct ancient culture, translating fragments, myths, and marginal voices into playable experiences. I design games that invite players to push against familiar narratives and, in the process, encounter strange and unseen sides of themselves.
 
-# Animation
-<video controls width="640">
-  <source src="{{ '/assets/video/Fukakoryoku.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# Platformer
+https://github.com/Lutetia1827/Lutetia1827.github.io/blob/4dea938d1653be9d645d701c591cc7be95503c7a/assets/video/SkyRun.mp4
 
 ## Header 2
 
