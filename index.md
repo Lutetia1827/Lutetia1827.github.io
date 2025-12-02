@@ -1,16 +1,9 @@
 ---
 layout: default
 ---
+I’m a Classics scholar and game designer whose work lives at the intersection of ancient texts and interactive systems. In Classics, my focus is on ancient drama, Latin novels, and everything grotesque about the ancient Mediterranean world—bodies out of bounds, unstable identities, and stories that refuse to stay tidy. As a game student, I’m interested in making games that deconstruct and reconstruct ancient culture, translating fragments, myths, and marginal voices into playable experiences. I design games that invite players to push against familiar narratives and, in the process, encounter strange and unseen sides of themselves.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Animation
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
